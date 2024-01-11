@@ -10,9 +10,9 @@ published: true
 
 > ![Image]({{ site.url }}/images/post_images/2024-01-11-the-complexity/1-complexity.jpg)
 
-> ![Image]({{ site.url }}/images/post_images/2024-01-11-the-complexity/2-complexity.jpg)
-
 如果有交集, 那复杂度就是指数, 或者更夸张的曲线上升. 随之而来的是同样难度的需求, 需要更多的时间才能完成, 迭代能力逐步下降.
+
+> ![Image]({{ site.url }}/images/post_images/2024-01-11-the-complexity/2-complexity.jpg)
 
 所以定期清理代码, 清理逻辑, 还技术债, 是必要的, 而且是非做不可的, 控制系统整体复杂度, 能够有效提高团队迭代能力.
 
