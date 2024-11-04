@@ -7,6 +7,7 @@ tags:
 published: true
 ---
 
+
 FUJI XT-50 + 35mm f1.4
 ![Image]({{ site.url }}/images/post_images/2024-11-04-white-cars/2.JPEG)
 
