@@ -1,5 +1,5 @@
 ---
-title: "高草丛中"
+title: "丛林"
 create_time: 2024-09-20 00:00
 tags:
   - life

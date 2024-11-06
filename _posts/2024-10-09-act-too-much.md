@@ -1,5 +1,5 @@
 ---
-title: "天台戏"
+title: "天台"
 create_time: 2024-10-09 00:00
 tags:
   - life
